@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+
+main{ 
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.game-title
+{
+    width: 640px;
+    margin: auto;
+    text-align: center;
+    color:black;
+    font-weight: bold;
+    font-size: 32px;
+    background-color:aqua;
+
+
+}
+
+.can-wrapper{
+    width: 640px;
+    margin: auto;
+    background-color:aqua;
+}
+
+.result
+{
+   
+    width: 640px;
+    margin: auto;
+    text-align: center;
+    color: ghostwhite;
+    font-weight: bold;
+    font-size: 32px;
+    background-color:aqua;
+}
+
+
+
